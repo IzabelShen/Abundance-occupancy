@@ -1,6 +1,6 @@
 # Abundance-Occupancy-along-taxonomicRanks
 
-A repository for R code, data, figures, scripts from the manuscript "Abundance-occupancy relationships along taxonomic ranks reveals a high degree of niche divergence at broad taxonomic levels" (in preparation). Abundance-occupancy relationships (AO) is a relation describing the abundance and the number of sites that each speices attain on a regional scale. Quantifying the strength of AO relationships in microbial communities in natural systems incorporated with phylogenetic framework and life-history styles is currently not known. In this study, we first assesed the strength of AO relationships along taxonomic ranks within particle-attached and free-living assemblages across depths in St. Lawrence Estuary. Furthermore, the slope of AO relationships along taxonomic ranks was calculated and served as the estimate of niche divergence rates of bacterial communities surveyed.
+Abundance-occupancy relationships (AO) is a relation describing the abundance and the number of sites that each speices attain on a regional scale. Quantifying the strength of AO relationships in microbial communities in natural systems incorporated with phylogenetic framework and life-history styles is currently not known. In this study, we first assesed the strength of AO relationships along taxonomic ranks within particle-attached and free-living assemblages across depths in St. Lawrence Estuary. Furthermore, the slope of AO relationships along taxonomic ranks was calculated and served as the estimate of niche divergence rates of bacterial communities surveyed.
 
 This manuscript has been submitted.
 
@@ -30,4 +30,4 @@ base 3.4.0
 ## How to run
 The R scripts in the base folder should be run interactively (for instance with RStudio).
 
-The folder 'InputFiles' contains all data files required to run the analyses. In the repository, the input files are compressed with gzip. Before you proceed with the analyses, the files should be uncompressed.
+'InputFiles' contains all data files required to run the analyses. In the repository, the input files are compressed with gzip. Before you proceed with the analyses, the files should be uncompressed.
