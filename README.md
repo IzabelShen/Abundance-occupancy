@@ -4,6 +4,8 @@ A repository for R code, data, figures, scripts from the manuscript "Abundance-o
 
 Author: Dandan Shen, Leibniz Institute for Baltic Sea Research Warnemünde (IOW), Germany; dand.shen@gmail.com
 
+This manuscript has been submitted..
+
 ## Installation
 
 These scripts have been tested with R 3.4.0, running under: macOS 10.14.2.
