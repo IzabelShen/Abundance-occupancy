@@ -1,0 +1,109 @@
+  ,SampleID,Values,Diversity ,Depth,Lifestyle,Color,Symbol,log
+1,DS10,79.72074,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.901571321
+2,DS11,81.12652,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.909162847
+3,DS12,66.04368,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.819831264
+4,DS13,79.99658,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.903071421
+5,DS14,59.23624,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.772587484
+6,DS15,58.20369,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.764950519
+7,DS16,91.1257,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.959640877
+8,DS17,102.0101,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,2.008643173
+9,DS18,68.09456,Phylogenetic diversity,Surface,PA,darkolivegreen1,17,1.833112418
+10,DS1,117.0982,Phylogenetic diversity,Surface,FL,orange,16,2.068550219
+11,DS2,126.14185,Phylogenetic diversity,Surface,FL,orange,16,2.100859196
+12,DS3,98.54851,Phylogenetic diversity,Surface,FL,orange,16,1.993650062
+13,DS4,120.53226,Phylogenetic diversity,Surface,FL,orange,16,2.0811033
+14,DS5,125.94471,Phylogenetic diversity,Surface,FL,orange,16,2.100179931
+15,DS6,106.05243,Phylogenetic diversity,Surface,FL,orange,16,2.025520624
+16,DS7,122.69868,Phylogenetic diversity,CIL,FL,orange,16,2.088839891
+17,DS8,114.2055,Phylogenetic diversity,Surface,FL,orange,16,2.05768702
+18,DS9,120.15885,Phylogenetic diversity,Surface,FL,orange,16,2.079755763
+19,DM10,107.7877,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.032569205
+20,DM11,92.68921,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,1.967029181
+21,DM12,106.71259,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.028215661
+22,DM13,106.66515,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.028022548
+23,DM14,101.00001,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.004321417
+24,DM15,119.15992,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.076130203
+25,DM16,119.55614,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.077571885
+26,DM17,121.62396,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.08501914
+27,DM18,132.42199,Phylogenetic diversity,CIL,PA,darkolivegreen1,17,2.12196011
+28,DM1,110.00923,Phylogenetic diversity,CIL,FL,orange,16,2.041429125
+29,DM2,114.99065,Phylogenetic diversity,CIL,FL,orange,16,2.060662529
+30,DM3,124.84992,Phylogenetic diversity,CIL,FL,orange,16,2.096388268
+31,DM4,107.62948,Phylogenetic diversity,CIL,FL,orange,16,2.031931242
+32,DM5,142.27712,Phylogenetic diversity,CIL,FL,orange,16,2.153135066
+33,DM6,139.41377,Phylogenetic diversity,CIL,FL,orange,16,2.144305671
+34,DM7,128.76434,Phylogenetic diversity,Surface,FL,orange,16,2.109795606
+35,DM8,122.73191,Phylogenetic diversity,CIL,FL,orange,16,2.088957493
+36,DM9,136.60893,Phylogenetic diversity,CIL,FL,orange,16,2.13547909
+37,DS10,1132,Species richness,Surface,PA,darkolivegreen1,17,3.053846427
+38,DS11,944.3,Species richness,Surface,PA,darkolivegreen1,17,2.97510999
+39,DS12,1167.3,Species richness,Surface,PA,darkolivegreen1,17,3.067182486
+40,DS13,1058.1,Species richness,Surface,PA,darkolivegreen1,17,3.024526714
+41,DS14,1012.5,Species richness,Surface,PA,darkolivegreen1,17,3.005395032
+42,DS15,1373.6,Species richness,Surface,PA,darkolivegreen1,17,3.137860282
+43,DS16,1335.3,Species richness,Surface,PA,darkolivegreen1,17,3.125578849
+44,DS17,1221.4,Species richness,Surface,PA,darkolivegreen1,17,3.086857916
+45,DS18,1459.4,Species richness,Surface,PA,darkolivegreen1,17,3.164174342
+46,DS1,966.5,Species richness,Surface,FL,orange,16,2.985201858
+47,DS2,811.2,Species richness,Surface,FL,orange,16,2.909127942
+48,DS3,965.8,Species richness,Surface,FL,orange,16,2.984887201
+49,DS4,918.7,Species richness,Surface,FL,orange,16,2.963173716
+50,DS5,1050.6,Species richness,Surface,FL,orange,16,3.021437396
+51,DS6,1185.3,Species richness,Surface,FL,orange,16,3.073828284
+52,DS7,1066.8,Species richness,CIL,FL,orange,16,3.028083007
+53,DS8,1177.5,Species richness,Surface,FL,orange,16,3.070960916
+54,DS9,1175.9,Species richness,Surface,FL,orange,16,3.07037039
+55,DM10,624.2,Species richness,CIL,PA,darkolivegreen1,17,2.795323764
+56,DM11,651.6,Species richness,CIL,PA,darkolivegreen1,17,2.813981076
+57,DM12,528.1,Species richness,CIL,PA,darkolivegreen1,17,2.722716167
+58,DM13,809.2,Species richness,CIL,PA,darkolivegreen1,17,2.908055874
+59,DM14,719.3,Species richness,CIL,PA,darkolivegreen1,17,2.85691006
+60,DM15,522,Species richness,CIL,PA,darkolivegreen1,17,2.717670503
+61,DM16,1034.8,Species richness,CIL,PA,darkolivegreen1,17,3.01485642
+62,DM17,1149.8,Species richness,CIL,PA,darkolivegreen1,17,3.060622304
+63,DM18,888,Species richness,CIL,PA,darkolivegreen1,17,2.948412966
+64,DM1,828.1,Species richness,CIL,FL,orange,16,2.918082785
+65,DM2,830.6,Species richness,CIL,FL,orange,16,2.919391927
+66,DM3,700,Species richness,CIL,FL,orange,16,2.84509804
+67,DM4,824.5,Species richness,CIL,FL,orange,16,2.91619066
+68,DM5,897,Species richness,CIL,FL,orange,16,2.952792443
+69,DM6,784.7,Species richness,CIL,FL,orange,16,2.894703653
+70,DM7,906.8,Species richness,Surface,FL,orange,16,2.957511511
+71,DM8,794.8,Species richness,CIL,FL,orange,16,2.900257858
+72,DM9,966.7,Species richness,CIL,FL,orange,16,2.985291719
+73,DS10,0.68044488,Evenness,Surface,PA,darkolivegreen1,17,-0.16720705
+74,DS11,0.655797267,Evenness,Surface,PA,darkolivegreen1,17,-0.183230398
+75,DS12,0.689458578,Evenness,Surface,PA,darkolivegreen1,17,-0.161491821
+76,DS13,0.63748642,Evenness,Surface,PA,darkolivegreen1,17,-0.195529063
+77,DS14,0.650607735,Evenness,Surface,PA,darkolivegreen1,17,-0.186680778
+78,DS15,0.717898483,Evenness,Surface,PA,darkolivegreen1,17,-0.143936965
+79,DS16,0.686810405,Evenness,Surface,PA,darkolivegreen1,17,-0.163163134
+80,DS17,0.672568576,Evenness,Surface,PA,darkolivegreen1,17,-0.172263428
+81,DS18,0.707204995,Evenness,Surface,PA,darkolivegreen1,17,-0.15045468
+82,DS1,0.716055018,Evenness,Surface,FL,orange,16,-0.145053608
+83,DS2,0.663190071,Evenness,Surface,FL,orange,16,-0.178361985
+84,DS3,0.67047427,Evenness,Surface,FL,orange,16,-0.173617884
+85,DS4,0.656090949,Evenness,Surface,FL,orange,16,-0.183035954
+86,DS5,0.653284467,Evenness,Surface,FL,orange,16,-0.184897668
+87,DS6,0.711103696,Evenness,Surface,FL,orange,16,-0.148067064
+88,DS7,0.652666037,Evenness,CIL,FL,orange,16,-0.185308986
+89,DS8,0.643898247,Evenness,Surface,FL,orange,16,-0.191182758
+90,DS9,0.68859826,Evenness,Surface,FL,orange,16,-0.162034079
+91,DM10,0.629378991,Evenness,CIL,PA,darkolivegreen1,17,-0.201087758
+92,DM11,0.65066017,Evenness,CIL,PA,darkolivegreen1,17,-0.186645778
+93,DM12,0.618030529,Evenness,CIL,PA,darkolivegreen1,17,-0.208990072
+94,DM13,0.685044074,Evenness,CIL,PA,darkolivegreen1,17,-0.164281486
+95,DM14,0.682410728,Evenness,CIL,PA,darkolivegreen1,17,-0.165954154
+96,DM15,0.606887749,Evenness,CIL,PA,darkolivegreen1,17,-0.216891629
+97,DM16,0.704018624,Evenness,CIL,PA,darkolivegreen1,17,-0.152415852
+98,DM17,0.668262184,Evenness,CIL,PA,darkolivegreen1,17,-0.175053115
+99,DM18,0.692499012,Evenness,CIL,PA,darkolivegreen1,17,-0.159580842
+100,DM1,0.591662723,Evenness,CIL,FL,orange,16,-0.227925792
+101,DM2,0.578878574,Evenness,CIL,FL,orange,16,-0.237412525
+102,DM3,0.573436925,Evenness,CIL,FL,orange,16,-0.241514345
+103,DM4,0.619958483,Evenness,CIL,FL,orange,16,-0.207637393
+104,DM5,0.592773119,Evenness,CIL,FL,orange,16,-0.227111499
+105,DM6,0.619994893,Evenness,CIL,FL,orange,16,-0.207611888
+106,DM7,0.626678581,Evenness,Surface,FL,orange,16,-0.202955149
+107,DM8,0.636668507,Evenness,CIL,FL,orange,16,-0.196086632
+108,DM9,0.627929784,Evenness,CIL,FL,orange,16,-0.202088917
