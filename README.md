@@ -5,7 +5,8 @@ Abundance-occupancy relationships (AO) is a relation describing the abundance an
 This manuscript has been submitted.
 
 
-Author: Dandan Shen, Leibniz Institute for Baltic Sea Research Warnemünde (IOW), Germany; dand.shen@gmail.com
+Corresponding author: Dandan Izabel-Shen, Department of Ecology, Environment and Plant Sciences, Stockholm University; email: dand.shen@gmail.com
+
 
 
 ## Installation
@@ -14,16 +15,23 @@ These scripts have been tested with R 3.4.0, running under: macOS 10.14.2.
 
 The following packages (and their dependencies) are required to run the whole analyses
 
+R version 4.0.0
 ```
-ggplot2 2.2.1
-vegan 2.4-3
-ape 4.1
-GUniFrac 1.0
-gridExtra 2.2.1
-RVAideMemoire 0.9-69-3
-scales 0.4.1
-graphics 3.4.0
-base 3.4.0
+ggplot2 (3.3.3)
+vegan (2.5.7)
+ape (5.4.1)
+GUniFrac (1.1)
+gridExtra (2.3)
+RVAideMemoire (0.9.79)
+scales (1.1.1)
+graphics (3.4.0)
+base (4.0.4)
+picante (1.8.2)
+dada2 (1.18.0)
+readxl (1.3.1)
+Biostrings (2.58.0)
+ShortRead (1.48.0)
+
 
 ```
 
