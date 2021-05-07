@@ -4,7 +4,7 @@ Abundance-occupancy relationships (AO) is a relation describing the abundance an
 
 This work is currently In Review.
 
-If you apply any codes in this repository, please cite its Zenodo DOI Badge: https://doi.org/10.5281/zenodo.4743168
+If you apply the script provided in this repository, please cite: https://doi.org/10.5281/zenodo.4743168
 
 
 
