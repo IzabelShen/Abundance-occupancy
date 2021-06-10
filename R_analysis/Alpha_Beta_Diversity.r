@@ -172,7 +172,7 @@ t8
 Otutable<-read.csv("./OTU_subampled.csv",row.names = 1, header = T)
 #Environ <-read.csv("./EnvironData.csv", row.names=1, header=T)
 rownames(Otutable) <-rownames(Environ) ##sample ID in row, OTU in column
-rownames(Otutable) <-c("DM1","DM10", "DM11","DM12",	"DM13",	"DM14",	"DM15",	"DM16",	"DM17", "DM18",	"DM2",	"DM3",	"DM4"	,"DM5",	"DM6",	"DM7",	"DM8",	"DM9",	"DS1",	"DS10",	"DS11",	"DS12",	"DS13",	"DS14",	"DS15",	"DS16",	"DS17",	"DS18",	"DS2",	"DS3",	"DS4",	"DS5",	"DS6",	"DS7",	"DS8",	"DS9")
+rownames(Otutable) <-c("DM1","DM10", "DM11","DM12", "DM13", "DM14","DM15","DM16","DM17", "DM18","DM2",	"DM3",	"DM4","DM5",	"DM6",	"DS7",	"DM8",	"DM9",	"DS1",	"DS10",	"DS11",	"DS12",	"DS13",	"DS14",	"DS15",	"DS16",	"DS17",	"DS18",	"DS2",	"DS3",	"DS4",	"DS5",	"DS6",	"DM7",	"DS8",	"DS9")
 
 library("vegan")
 library("gridExtra")
