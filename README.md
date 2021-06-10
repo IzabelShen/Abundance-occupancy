@@ -13,7 +13,7 @@ Corresponding author: Dandan Izabel-Shen, Department of Ecology, Environment and
 
 ## Installation
 
-These scripts have been tested with R 3.4.0, running under: macOS 10.14.2.
+These scripts have been tested with R 4.0.0, running under: macOS 10.14.2.
 
 The following packages (and their dependencies) are required to run the whole analyses
 
