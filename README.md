@@ -2,9 +2,10 @@
 
 Abundance-occupancy relationships (AO) is a relation describing the abundance and the number of sites that each speices attain on a regional scale. Quantifying the strength of AO relationships in microbial communities in natural systems incorporated with phylogenetic framework and life-history styles is currently not known. In this study, we first assesed the strength of AO relationships along taxonomic ranks within particle-attached and free-living assemblages across depths in St. Lawrence Estuary. Furthermore, the slope of AO relationships along taxonomic ranks was calculated and served as the estimate of niche divergence rates of bacterial communities surveyed.
 
-_This work has been accepted for publication in Frontiers in Microbiology (In presss)_
+_This work has been published in Frontiers in Microbiology http://dx.doi.org/10.3389/fmicb.2021.690712
 
 The codes and computing notes in this Github repository are also published in Zenodo: https://doi.org/10.5281/zenodo.4743168. 
+
 
 
 # To cite this work or code:
